@@ -1,0 +1,23 @@
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px; 
+}
+
+
+.abt h2 {
+    margin-top: 0;
+}
+
+.para p {
+    display: block;
+}
+
+/* h3 {
+    text-align: center;
+} */
